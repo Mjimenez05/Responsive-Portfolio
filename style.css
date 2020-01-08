@@ -1,3 +1,7 @@
+/* I need to work on getting the nav bar to flow underneath the logo
+I also need to make the text align properly when the size shrinks to 640px
+ */
+
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
