@@ -346,3 +346,11 @@ input[type=submit] {
         width: 100%;
     }
 }
+
+@media screen and (max-width:960px) {
+    #masthead,
+    #logo,
+    #nav,
+    #nav a,
+    #nav a: first-child
+}
